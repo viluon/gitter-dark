@@ -2,6 +2,12 @@
 ![](screens/dark-gitter01.png)
 A dark [Stylish theme](https://userstyles.org/styles/131747/gitter-dark-by-viluon) for [Gitter.im](https://gitter.im).
 
+## What's changed
+Gitter Dark is a grey theme with blue details. Apart from changing the colours, it also displays avatars as their square versions and improves online indicators. Have a peek into the [screenshots folder](screens) to see it in action, or [preview with Stylish](https://userstyles.org/styles/131747/gitter-dark-by-viluon).
+
+## Installation
+You can easily install Gitter Dark using the [Stylish extension](https://userstyles.org/) available for Firefox, Chrome, Safari, and Opera. Navigate to [**the download page**](https://userstyles.org/styles/131747/gitter-dark-by-viluon) and click "Install with Stylish".
+
 ## Contributors, Licensing and History
 This style is an adaptation of [ylluminarious' Dark Gitter](https://userstyles.org/styles/121640/ylluminarious-s-dark-gitter), which is an improvement over [MATU's Dark Gitter](https://userstyles.org/styles/112547/matu-s-dark-gitter), which was in turn derived from [Dark Gitter by RampantLeaf](https://userstyles.org/styles/112545/dark-gitter).
 
