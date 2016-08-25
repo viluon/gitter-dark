@@ -4,6 +4,17 @@
 */
 
 @-moz-document domain(gitter.im) {
+	/* Applies mainly to developer.gitter.im */
+	body {
+		font-family: "Open Sans";
+		font-weight: 500;
+		font-size: 1rem;
+		line-height: 1.4;
+		color: #ccc;
+	}
+
+	/* Code for Gitter.im chatrooms */
+
 	/* the body */
 	.fonts-loaded body {
 		font-family: "Open Sans";
@@ -305,7 +316,7 @@
 
 	/* Links */
 	a {
-		color:white
+		color: #3498db;
 	}
 
 	/* > settings menu links */
