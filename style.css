@@ -3,6 +3,8 @@
 	https://github.com/viluon/gitter-dark
 */
 
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
 @-moz-document domain(gitter.im) {
 	/* Applies mainly to developer.gitter.im */
 	body {
@@ -171,6 +173,11 @@
 		background-repeat: no-repeat;
 		background-size: cover;
 		z-index: -1;
+	}
+
+	/* left panel chat headings */
+	.fonts-loaded .room-item__title {
+		font-weight: 500;
 	}
 
 	/* left panel scroll box */
